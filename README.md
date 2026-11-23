@@ -2,7 +2,7 @@
 
 # İbrahim Umut Eke
 
-**Elektrik-Elektronik Mühendisliği Öğrencisi**
+**Elektrik-Elektronik Mühendisliği Öğrencisi**<br>
 Güç Elektroniği · Donanım Tasarımı · Gömülü Sistemler
 
 Sakarya Üniversitesi
